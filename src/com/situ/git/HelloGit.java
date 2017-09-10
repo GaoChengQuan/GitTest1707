@@ -8,4 +8,8 @@ public class HelloGit {
 		System.out.println("HelloGit.main()");
 		System.out.println("HelloGit.main()");
 	}
+
+	public void name() {
+		System.out.println("HelloGit.name()");
+	}
 }
