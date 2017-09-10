@@ -12,4 +12,8 @@ public class HelloGit {
 	public void name() {
 		System.out.println("HelloGit.name()");
 	}
+	
+	public void print() {
+		System.out.println("HelloGit.print()");
+	}
 }
