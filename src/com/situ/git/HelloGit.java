@@ -34,4 +34,8 @@ public class HelloGit {
 			System.out.println(i);
 		}
 	}
+	
+	public void D() {
+		
+	}
 }
