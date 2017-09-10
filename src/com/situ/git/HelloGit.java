@@ -16,4 +16,16 @@ public class HelloGit {
 	public void print() {
 		System.out.println("HelloGit.print()");
 	}
+	
+	public void A() {
+		for (int i = 0; i < 100; i++) {
+			System.out.println(i);
+		}
+	}
+	
+	public void B() {
+		for (int i = 0; i < 100; i++) {
+			System.out.println(i);
+		}
+	}
 }
